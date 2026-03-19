@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "NEUROMANCE",
   "base_artist": "理芽",
-  "createdAt": "2026-03-19T09:46:31.776541Z",
+  "createdAt": "2026-03-19T09:54:30.559016Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "理芽",
       "has_synced": true,
       "path": "select/localdb_01_NEUROMANCE_理芽.lrc",
+      "repo_name": "U8X4x3SWdqI"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "NEUROMANCE",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/localdb_02_NEUROMANCE_理芽.lrc",
       "repo_name": "r8iO0MXlqOA"
     }
   ]
